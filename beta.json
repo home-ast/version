@@ -65,21 +65,21 @@
   "multicast": "2024.03.0",
   "observer": "2023.06.0",
   "image": {
-    "core": "ghcr.io/home-assistant/{machine}-homeassistant",
-    "supervisor": "ghcr.io/home-assistant/{arch}-hassio-supervisor",
-    "cli": "ghcr.io/home-assistant/{arch}-hassio-cli",
-    "audio": "ghcr.io/home-assistant/{arch}-hassio-audio",
-    "dns": "ghcr.io/home-assistant/{arch}-hassio-dns",
-    "observer": "ghcr.io/home-assistant/{arch}-hassio-observer",
-    "multicast": "ghcr.io/home-assistant/{arch}-hassio-multicast"
+    "core": "ghcr.io/home-ast/{machine}-homeassistant",
+    "supervisor": "ghcr.io/home-ast/{arch}-hassio-supervisor",
+    "cli": "ghcr.io/home-ast/{arch}-hassio-cli",
+    "audio": "ghcr.io/home-ast/{arch}-hassio-audio",
+    "dns": "ghcr.io/home-ast/{arch}-hassio-dns",
+    "observer": "ghcr.io/home-ast/{arch}-hassio-observer",
+    "multicast": "ghcr.io/home-ast/{arch}-hassio-multicast"
   },
   "images": {
-    "core": "ghcr.io/home-assistant/{machine}-homeassistant",
-    "supervisor": "ghcr.io/home-assistant/{arch}-hassio-supervisor",
-    "cli": "ghcr.io/home-assistant/{arch}-hassio-cli",
-    "audio": "ghcr.io/home-assistant/{arch}-hassio-audio",
-    "dns": "ghcr.io/home-assistant/{arch}-hassio-dns",
-    "observer": "ghcr.io/home-assistant/{arch}-hassio-observer",
-    "multicast": "ghcr.io/home-assistant/{arch}-hassio-multicast"
+    "core": "ghcr.io/home-ast/{machine}-homeassistant",
+    "supervisor": "ghcr.io/home-ast/{arch}-hassio-supervisor",
+    "cli": "ghcr.io/home-ast/{arch}-hassio-cli",
+    "audio": "ghcr.io/home-ast/{arch}-hassio-audio",
+    "dns": "ghcr.io/home-ast/{arch}-hassio-dns",
+    "observer": "ghcr.io/home-ast/{arch}-hassio-observer",
+    "multicast": "ghcr.io/home-ast/{arch}-hassio-multicast"
   }
 }
