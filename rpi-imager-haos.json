@@ -3,7 +3,7 @@
     {
       "name": "Home Assistant OS 14.0 (RPi 5)",
       "description": "Open source home automation that puts local control and privacy first.",
-      "url": "https://github.com/home-assistant/operating-system/releases/download/14.0/haos_rpi5-64-14.0.img.xz",
+      "url": "https://github.com/home-ast/operating-system/releases/download/14.0/haos_rpi5-64-14.0.img.xz",
       "icon": "https://version.home-assistant.io/brand/logo.png",
       "extract_size": 2147483648,
       "extract_sha256": "8cd6441dfa0354b8e8a031988cbe6a601f291be46b1fef83dc63a660729d1e87",
@@ -18,7 +18,7 @@
     {
       "name": "Home Assistant OS 14.0 (RPi 4/400)",
       "description": "Open source home automation that puts local control and privacy first.",
-      "url": "https://github.com/home-assistant/operating-system/releases/download/14.0/haos_rpi4-64-14.0.img.xz",
+      "url": "https://github.com/home-ast/operating-system/releases/download/14.0/haos_rpi4-64-14.0.img.xz",
       "icon": "https://version.home-assistant.io/brand/logo.png",
       "extract_size": 2147483648,
       "extract_sha256": "3f5c6423c7f5551f800669ca2b3d469c1e257c75b8c4826281af946e8fbc6eaf",
@@ -33,7 +33,7 @@
     {
       "name": "Home Assistant OS 14.0 (RPi 3)",
       "description": "Open source home automation that puts local control and privacy first.",
-      "url": "https://github.com/home-assistant/operating-system/releases/download/14.0/haos_rpi3-64-14.0.img.xz",
+      "url": "https://github.com/home-ast/operating-system/releases/download/14.0/haos_rpi3-64-14.0.img.xz",
       "icon": "https://version.home-assistant.io/brand/logo.png",
       "extract_size": 2147483648,
       "extract_sha256": "35760e576f4f5f11f5ecfa99974a6669ffa3eaaf19d7a1a06470e47f2ce5e017",
